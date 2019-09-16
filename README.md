@@ -9,7 +9,7 @@ MOCK_SNACKER_DATA.json
 Find all emails of snackers with a 'fave_snack'of a product we stock:
 Our product list can be found here (assume all products here are in stock):
 
-https://ca.desknibbles.com/products.json?limit=250 
+https://ca.desknibbles.com/products.json?limit=250
 products.json
 
 a) List the real stocked snacks you found under the snacker's 'fave_snack'?
